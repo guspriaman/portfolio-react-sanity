@@ -16,6 +16,7 @@ import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import github from '../assets/github.png';
+import tailwing from '../assets/tailwing.png';
 
 export default {
   email,
@@ -36,4 +37,5 @@ export default {
   circle,
   logo,
   github,
+  tailwing,
 };
